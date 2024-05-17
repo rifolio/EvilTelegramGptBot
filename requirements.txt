@@ -1,0 +1,10 @@
+telegram
+langchain_community
+langchain_openai
+langchain
+python-telegram-bot
+pandas
+llama-index
+python-dotenv
+openai
+tiktoken
